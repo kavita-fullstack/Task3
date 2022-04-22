@@ -1,0 +1,5 @@
+{
+	"dbURI": "mongodb+srv://Kavita:TRZTBd1kOMlBkGvi@cluster0.c57ij.mongodb.net/ecommerce?retryWrites=true&w=majority",
+	"jwtsecret":"c9013641f3dfa5d9f745bd1feeae8ef6d475ff395209f5afc049c51207ab78e9",
+	"StripeAPIKey":"sk_test_51Kp58XSBNqm0mFFW1a5EuU428v503pdh20VedcgkIx6utnTJoD0MUlNG6epCs3wQkc3ZqrQvvCMg6NgIoIi2bR2a00MNSfH2Gm"
+}
